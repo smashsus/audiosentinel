@@ -119,9 +119,9 @@ Sample rate: 24kHz — all samples resampled internally.
 | LogReg (all) | 94.7% |
 | Gradient Boost | 95.5% |
 | Random Forest | 96.7% |
-| Tuned RF (final) | **100.0%** |
+| Tuned RF (final) | **99.93%** |
 
-Blind test (294 samples, unseen): **100% — 0 misclassifications**
+Blind test (750 samples, unseen): **100% — 0 misclassifications**
 
 ![Confusion Matrix & Feature Importances](assets/classifier_result.png)
 
