@@ -51,7 +51,8 @@ results = predict_batch(glob.glob('audio/*.wav'))
 for r in results:
     print(r['label'], r['prob_human'])
 ```
-
+> [!NOTE]
+> The accuracy is 100% based on nearest integer values.
 ---
 
 ## CLI
