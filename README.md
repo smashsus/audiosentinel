@@ -97,8 +97,7 @@ Returns raw 52-feature dict for a WAV file.
 
 ---
 
-![Entropy Comparison Human vs AI](https://raw.githubusercontent.com/smashsus/audiosentinel/assets/entropy_comparison.png)
-
+![Entropy Comparison](assets/entropy_comparison.png)
 ---
 
 ## Training Data
