@@ -123,7 +123,7 @@ Sample rate: 24kHz — all samples resampled internally.
 
 Blind test (294 samples, unseen): **100% — 0 misclassifications**
 
-![Confusion Matrix & Feature Importances](https://raw.githubusercontent.com/smashsus/audiosentinel/assets/classifier_results.png)
+![Confusion Matrix & Feature Importances](assets/classifier_result.png)
 
 ---
 
