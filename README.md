@@ -97,7 +97,7 @@ Returns raw 52-feature dict for a WAV file.
 
 ---
 
-![Entropy Comparison Human vs AI](https://raw.githubusercontent.com/smashsus/audiosentinel/main/assets/entropy_comparison.png)
+![Entropy Comparison Human vs AI](https://raw.githubusercontent.com/smashsus/audiosentinel/assets/entropy_comparison.png)
 
 ---
 
@@ -124,7 +124,7 @@ Sample rate: 24kHz — all samples resampled internally.
 
 Blind test (294 samples, unseen): **100% — 0 misclassifications**
 
-![Confusion Matrix & Feature Importances](https://raw.githubusercontent.com/smashsus/audiosentinel/main/assets/classifier_results.png)
+![Confusion Matrix & Feature Importances](https://raw.githubusercontent.com/smashsus/audiosentinel/assets/classifier_results.png)
 
 ---
 
